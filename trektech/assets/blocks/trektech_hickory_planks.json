@@ -1,0 +1,11 @@
+{
+    "stringId": "trektech:hickory_planks",
+    "blockStates":
+    {
+        "default": 
+        {
+            "modelName": "trektech/hickory_planks",
+            "generateSlabs": true
+        }
+    }
+}

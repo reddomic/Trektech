@@ -1,0 +1,11 @@
+{
+    "stringId": "trektech:ash_log",
+    "blockStates":
+    {
+        "default": 
+        {
+            "modelName": "trektech/ash_log",
+            "generateSlabs": true
+        }
+    }
+}

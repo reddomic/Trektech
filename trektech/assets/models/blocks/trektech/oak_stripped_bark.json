@@ -1,0 +1,12 @@
+{
+    "parent": "cube",
+
+    "textures":
+    {
+        "all":
+        {
+            "fileName": "trektech/oak_stripped_bark.png"
+        }
+    }
+    
+}

@@ -1,0 +1,11 @@
+{
+    "stringId": "trektech:cedar_bark",
+    "blockStates":
+    {
+        "default": 
+        {
+            "modelName": "trektech/cedar_bark",
+            "generateSlabs": true
+        }
+    }
+}

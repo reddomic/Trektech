@@ -1,0 +1,11 @@
+{
+    "stringId": "trektech:apple_log",
+    "blockStates":
+    {
+        "default": 
+        {
+            "modelName": "trektech/apple_log",
+            "generateSlabs": true
+        }
+    }
+}

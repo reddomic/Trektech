@@ -1,0 +1,11 @@
+{
+    "stringId": "trektech:juniper_stripped_bark",
+    "blockStates":
+    {
+        "default": 
+        {
+            "modelName": "trektech/juniper_stripped_bark",
+            "generateSlabs": true
+        }
+    }
+}
