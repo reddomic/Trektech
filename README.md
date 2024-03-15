@@ -11,7 +11,6 @@ Works with the following Cosmic Reach game versions:
 * 0.1.3 (unconfirmed)
 * 0.1.2 (unconfirmed)
 * 0.1.1 (unconfirmed)
-* 0.1.0 (unconfirmed)
 
 ADDED
 * Oak bark, logs, planks, stripped bark, logs, planks and slab variants for everything listed prior
