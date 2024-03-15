@@ -1,0 +1,11 @@
+{
+    "stringId": "trektech:hickory_stripped_bark",
+    "blockStates":
+    {
+        "default": 
+        {
+            "modelName": "trektech/hickory_stripped_bark",
+            "generateSlabs": true
+        }
+    }
+}

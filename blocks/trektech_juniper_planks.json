@@ -1,0 +1,11 @@
+{
+    "stringId": "trektech:juniper_planks",
+    "blockStates":
+    {
+        "default": 
+        {
+            "modelName": "trektech/juniper_planks",
+            "generateSlabs": true
+        }
+    }
+}

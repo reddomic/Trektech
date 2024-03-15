@@ -1,0 +1,11 @@
+{
+    "stringId": "trektech:willow_bark",
+    "blockStates":
+    {
+        "default": 
+        {
+            "modelName": "trektech/willow_bark",
+            "generateSlabs": true
+        }
+    }
+}

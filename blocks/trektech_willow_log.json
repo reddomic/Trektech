@@ -1,0 +1,11 @@
+{
+    "stringId": "trektech:willow_log",
+    "blockStates":
+    {
+        "default": 
+        {
+            "modelName": "trektech/willow_log",
+            "generateSlabs": true
+        }
+    }
+}

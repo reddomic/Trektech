@@ -1,0 +1,11 @@
+{
+    "stringId": "trektech:hickory_stripped_log",
+    "blockStates":
+    {
+        "default": 
+        {
+            "modelName": "trektech/hickory_stripped_log",
+            "generateSlabs": true
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "stringId": "trektech:sycamore_bark",
+    "blockStates":
+    {
+        "default": 
+        {
+            "modelName": "trektech/sycamore_bark",
+            "generateSlabs": true
+        }
+    }
+}

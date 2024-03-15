@@ -1,0 +1,19 @@
+{
+    "parent": "cube",
+
+    "textures":
+    {
+        "top":
+        {
+            "fileName": "trektech/juniper_log_top.png"
+        },
+        "side":
+        {
+            "fileName": "trektech/juniper_log_side.png"
+        },
+        "bottom":
+        {
+            "fileName": "trektech/juniper_log_top.png"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "stringId": "trektech:apple_planks",
+    "blockStates":
+    {
+        "default": 
+        {
+            "modelName": "trektech/apple_planks",
+            "generateSlabs": true
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "stringId": "trektech:birch_log",
+    "blockStates":
+    {
+        "default": 
+        {
+            "modelName": "trektech/birch_log",
+            "generateSlabs": true
+        }
+    }
+}

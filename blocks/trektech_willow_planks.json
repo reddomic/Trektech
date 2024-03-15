@@ -1,0 +1,11 @@
+{
+    "stringId": "trektech:willow_planks",
+    "blockStates":
+    {
+        "default": 
+        {
+            "modelName": "trektech/willow_planks",
+            "generateSlabs": true
+        }
+    }
+}

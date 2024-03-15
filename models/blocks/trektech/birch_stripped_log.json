@@ -1,0 +1,19 @@
+{
+    "parent": "cube",
+
+    "textures":
+    {
+        "top":
+        {
+            "fileName": "trektech/birch_stripped_log_top.png"
+        },
+        "side":
+        {
+            "fileName": "trektech/birch_stripped_log_side.png"
+        },
+        "bottom":
+        {
+            "fileName": "trektech/birch_stripped_log_top.png"
+        }
+    }
+}

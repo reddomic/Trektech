@@ -1,0 +1,11 @@
+{
+    "stringId": "trektech:juniper_log",
+    "blockStates":
+    {
+        "default": 
+        {
+            "modelName": "trektech/juniper_log",
+            "generateSlabs": true
+        }
+    }
+}

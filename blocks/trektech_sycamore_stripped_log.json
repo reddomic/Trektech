@@ -1,0 +1,11 @@
+{
+    "stringId": "trektech:sycamore_stripped_log",
+    "blockStates":
+    {
+        "default": 
+        {
+            "modelName": "trektech/sycamore_stripped_log",
+            "generateSlabs": true
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "stringId": "trektech:maple_bark",
+    "blockStates":
+    {
+        "default": 
+        {
+            "modelName": "trektech/maple_bark",
+            "generateSlabs": true
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "stringId": "trektech:oak_log",
+    "blockStates":
+    {
+        "default": 
+        {
+            "modelName": "trektech/oak_log",
+            "generateSlabs": true
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "stringId": "trektech:ash_stripped_bark",
+    "blockStates":
+    {
+        "default": 
+        {
+            "modelName": "trektech/ash_stripped_bark",
+            "generateSlabs": true
+        }
+    }
+}

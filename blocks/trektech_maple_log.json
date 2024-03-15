@@ -1,0 +1,11 @@
+{
+    "stringId": "trektech:maple_log",
+    "blockStates":
+    {
+        "default": 
+        {
+            "modelName": "trektech/maple_log",
+            "generateSlabs": true
+        }
+    }
+}
