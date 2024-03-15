@@ -1,7 +1,7 @@
 # Trektech
 Trektech mod developed by Reddomic for Cosmic Reach
 
-CHANGELOG
+# CHANGELOG
 
 # Trektech 0.1, works with Cosmic Reach version(s) 0.1.6
 
